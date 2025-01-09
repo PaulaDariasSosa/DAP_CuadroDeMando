@@ -1,0 +1,6 @@
+WeatherApiClient.class
+WeatherApiClient$ApiResponse.class
+Main.class
+graficas\GraficoBrujula.class
+WeatherParser.class
+Api.class
